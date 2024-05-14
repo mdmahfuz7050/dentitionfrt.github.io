@@ -62,6 +62,8 @@ Azure Cognitive Services (Text Analytics): Analyzes feedback and sentiment, enab
 ![Screenshot (400)](https://github.com/mdmahfuz7050/dentitionfrt.github.io/assets/112500380/120d9395-99bd-4d9a-b59c-099fd9d6d139)
 ![Screenshot (399)](https://github.com/mdmahfuz7050/dentitionfrt.github.io/assets/112500380/4eae26e1-94b4-477c-96a9-2c9b5fedd887)
 ![Screenshot (408)](https://github.com/mdmahfuz7050/dentitionfrt.github.io/assets/112500380/220fb08a-0d20-49ed-ba97-eb9e65b70f7c)
+![Screenshot (409)](https://github.com/mdmahfuz7050/dentitionfrt.github.io/assets/112500380/45a433cb-b086-4217-b95e-cf6ef1d714af)
+![Screenshot (410)](https://github.com/mdmahfuz7050/dentitionfrt.github.io/assets/112500380/0e2146e4-b502-4031-aca0-176dd5d06696)
 
 Future Ready Talent
 🚀 Future Ready Talent is a virtual internship platform empowering students to learn in-demand technology skills and solve real-world problems using Microsoft Azure & GitHub tools. Students can earn academic credits on completion of the program, with opportunities for exclusive career drives and offers. Open to students joining the workforce in the next 3 years, including recent graduates. #EmploymentAssistance 🎓✨
