@@ -49,7 +49,7 @@ Azure Cognitive Services (Text Analytics): Analyzes feedback and sentiment, enab
 
 ***Project Links*** - https://mdmahfuz7050.github.io/dentitionfrt.github.io/index.html
 
-***Project Repository** -
+***Project Repository** - https://github.com/mdmahfuz7050/dentitionfrt.github.io?tab=readme-ov-file
 
 **Demo Video** - https://drive.google.com/file/d/10zenDO6pwX7GK14PkZkgOuYkyFNT_8NG/view?usp=sharing
 
